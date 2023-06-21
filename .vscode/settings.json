@@ -1,0 +1,11 @@
+{
+    "js/ts.implicitProjectConfig.checkJs": false,
+    "js/ts.implicitProjectConfig.experimentalDecorators": false,
+    "js/ts.implicitProjectConfig.strictFunctionTypes": true,
+    
+        "typescript.tsdk": "",
+        "typescript.outDir": "dist",
+        "compile-hero.disable-compile-files-on-did-save-code": true
+      
+
+}
